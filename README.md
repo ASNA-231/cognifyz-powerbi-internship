@@ -1,1 +1,0 @@
-# cognifyz-powerbi-internship
